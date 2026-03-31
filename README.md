@@ -104,5 +104,5 @@ Map visuals require internet access and enabled map settings in Power BI Desktop
 11. Screenshots
 
 Show what the dashboard looks like - ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/overview.png)
-Show what the dashboard looks like - ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/overview.png)
+Show what the dashboard looks like - ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/ratings.png)
 
