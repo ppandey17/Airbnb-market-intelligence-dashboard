@@ -1,4 +1,3 @@
-# airbnb-market-intelligence-dashboard
 Power BI dashboard analyzing Airbnb listings, pricing, ratings, and customer behavior.
 # Airbnb Market Intelligence Dashboard 📊
 
@@ -101,8 +100,8 @@ To build an interactive dashboard that:
 Map visuals require internet access and enabled map settings in Power BI Desktop.
 
 
-11. Screenshots
+12. Screenshots
 
 Show what the dashboard looks like - ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/overview.png)
-Show what the dashboard looks like - ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/ratings.png)
-
+![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/ratings.png)
+![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/reviews.png)
