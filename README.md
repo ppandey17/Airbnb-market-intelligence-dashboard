@@ -101,6 +101,6 @@ To build an interactive dashboard that:
 Map visuals require internet access and enabled map settings in Power BI Desktop.
 
 
-11. Dashboard Preview
+11. Screenshots
 
-Show what the dashboard looks like - 
+Show what the dashboard looks like - ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/overview.png)
