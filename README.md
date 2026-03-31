@@ -1,12 +1,12 @@
 Power BI dashboard analyzing Airbnb listings, pricing, ratings, and customer behavior.
 # Airbnb Market Intelligence Dashboard 📊
 
-1. Project Title
+1.  Project Title
 
 Airbnb Market Intelligence Dashboard
 
 
-2. Project Overview
+2.  Project Overview
 
 This project presents an interactive Power BI dashboard designed to analyze Airbnb market trends, pricing patterns, customer ratings, and review behavior across major cities.
 The objective is to transform raw data into meaningful insights that support better decision-making in a competitive short-term rental market.
