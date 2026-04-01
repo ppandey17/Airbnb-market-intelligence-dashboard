@@ -3,7 +3,7 @@
 
 Power BI dashboard analyzing Airbnb listings, pricing, ratings, and customer behavior.
 
-1.    Project Title
+1.Project Title
 
 Airbnb Market Intelligence Dashboard
 
