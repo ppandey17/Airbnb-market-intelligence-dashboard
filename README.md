@@ -1,9 +1,9 @@
 # Airbnb Market Intelligence Dashboard 📊 
 🎥[Watch Interactive Dashboard Demo:](https://drive.google.com/file/d/1beiXmKhbV89W8kFPVXajF0tBqYUbLsnB/view?usp=sharing)
 
-  Power BI dashboard analyzing Airbnb listings, pricing, ratings, and customer behavior.
+Power BI dashboard analyzing Airbnb listings, pricing, ratings, and customer behavior.
 
-1. Project Title
+1.    Project Title
 
 Airbnb Market Intelligence Dashboard
 
