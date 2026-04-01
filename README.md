@@ -14,7 +14,7 @@ This project presents an interactive Power BI dashboard designed to analyze Airb
 The objective is to transform raw data into meaningful insights that support better decision-making in a competitive short-term rental market.
 
 
-3. Tech Stack
+3.Tech Stack
 
 * Power BI Desktop
 * Power Query (Data Cleaning & Transformation)
@@ -22,13 +22,13 @@ The objective is to transform raw data into meaningful insights that support bet
 * Data Modeling
 
 
-4. Data Source
+4.Data Source
 
 * Dataset sourced from **Maven Analytics**
 * Includes Airbnb listings, pricing, reviews, and host-related data across multiple cities
 
 
-5. Business Problem
+5.Business Problem
 
 Understanding Airbnb’s rapidly evolving market is challenging due to:
 * Large volume of listing data
@@ -38,7 +38,7 @@ Understanding Airbnb’s rapidly evolving market is challenging due to:
 Without proper analysis, it becomes difficult to identify key trends and make strategic decisions.
 
 
-6. Goal of the Dashboard
+6.Goal of the Dashboard
 
 To build an interactive dashboard that:
 * Tracks market growth over time
@@ -47,7 +47,7 @@ To build an interactive dashboard that:
 * Identifies key contributors to the market
 
 
-7. Key Features & Visuals
+7.Key Features & Visuals
 
 🔹 a. Listings Growth Trend (Line Chart)
     * Displays growth of Airbnb listings over time
@@ -73,7 +73,7 @@ To build an interactive dashboard that:
     Purpose: Enable dynamic and user-friendly exploration
 
 
-8. Key Insights
+8.Key Insights
 
 * Listings grew rapidly between 2008–2015 and stabilized afterward
 * Entire homes dominate the Airbnb market
@@ -83,7 +83,7 @@ To build an interactive dashboard that:
 * A few cities account for a large share of listings
 
 
-9. Business Impact
+9.Business Impact
 
 * Helps identify high-demand markets
 * Supports pricing optimization strategies
@@ -92,17 +92,17 @@ To build an interactive dashboard that:
 * Assists in strategic decision-making
 
 
-10. Download Dashboard
+10.Download Dashboard
 
 [Download PBIX File](https://drive.google.com/file/d/1L-TI8TzTJZATNAcIoIENDSj2t_OcP2_X/view?usp=sharing)
 
 
-11. Note
+11.Note
 
 Map visuals require internet access and enabled map settings in Power BI Desktop.
 
 
-12. Screenshots
+12.Screenshots
 
 Show what the dashboard looks like - ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/overview.png)
 ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/ratings.png)
