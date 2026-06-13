@@ -92,18 +92,13 @@ To build an interactive dashboard that:
 * Assists in strategic decision-making
 
 
-10.Download Dashboard
-
-[Download PBIX File](https://drive.google.com/file/d/1L-TI8TzTJZATNAcIoIENDSj2t_OcP2_X/view?usp=sharing)
-
-
-11.Note
+10.Note
 
 Map visuals require internet access and enabled map settings in Power BI Desktop.
 
 
-12.Screenshots
+11.Screenshots
 
-Show what the dashboard looks like - ![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/overview.png)
-![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/ratings.png)
-![Dashboard Preview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/reviews.png)
+![Overview](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/Dashboard_Screenshots/Overview.png)
+![Ratings](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/Dashboard_Screenshots/Ratings.png)
+![Reviews](https://github.com/ppandey17/Airbnb-market-intelligence-dashboard/blob/main/Dashboard_Screenshots/Reviews.png)
